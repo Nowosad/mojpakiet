@@ -13,6 +13,7 @@ Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.1.1
 Suggests: 
-    testthat (>= 2.1.0)
+    testthat (>= 2.1.0),
+    covr
 URL: https://github.com/Nowosad/mojpakiet
 BugReports: https://github.com/Nowosad/mojpakiet/issues
